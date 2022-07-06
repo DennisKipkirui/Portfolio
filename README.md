@@ -11,11 +11,13 @@ Requirements <br />
 * A browser(mozilla firefox, chrome)
 ## Technologies Used
 Created with
-* CSS
 * HTML
+* CSS
+* Javascript
+
 ## Support and contact details
 Incase of an emergency contact me on: <br />
-<!-- &nbsp;&nbsp;&nbsp;Phone Number: +254716889165 <br /> -->
+<!-- &nbsp;&nbsp;&nbsp;Phone Number: +254784921791 <br /> -->
 &nbsp;&nbsp;&nbsp;Email: kipkiruimutai33@gmail.com
 ### License
 Licensed by [MIT](https://choosealicense.com/licenses/mit)
